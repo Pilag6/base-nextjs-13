@@ -1,3 +1,6 @@
+![image](https://github.com/Pilag6/base-nextjs-13/assets/79191808/1da02d78-3cd4-400c-8167-c57ff0643634)
+
+
 > There is a mandatory requirement is that the name of the current folder must not contain special characters, spaces, or capital letters.
 
 ![image](https://github.com/Pilag6/base-nextjs-13/assets/79191808/a9030df3-cc0a-452b-b8d8-d89a889605e0)
