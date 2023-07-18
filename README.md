@@ -1,6 +1,9 @@
-![image](https://github.com/Pilag6/base-nextjs-13/assets/79191808/7549d93a-12df-44e3-b486-67ec4cf3020f)
+> There is a mandatory requirement is that the name of the current folder must not contain special characters, spaces, or capital letters.
+
+![image](https://github.com/Pilag6/base-nextjs-13/assets/79191808/a9030df3-cc0a-452b-b8d8-d89a889605e0)
 
 
+---
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
